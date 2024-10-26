@@ -1,0 +1,7 @@
+controllers\DisciplinaController.class
+dao\DisciplinaDAO.class
+dao\ProfessorDAO.class
+model\Disciplina.class
+ps2\restapi\_App.class
+model\Professor.class
+controllers\ProfessorController.class
